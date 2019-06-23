@@ -4,7 +4,7 @@
 //		
 //		Student:			Jeremiah Christich
 //
-//		Course Name:		Data Structures II  
+//		Course Name:		Data Structures I  
 //
 //		Course Number:		COSC 3100 - 11
 //
