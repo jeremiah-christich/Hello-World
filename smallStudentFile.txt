@@ -1,0 +1,25 @@
+9743 Johnson, James L
+Waupun, Wisconsin
+7345229
+M 1 15 3.15
+ENGR
+31631 Aristotle, Alice A
+Chino, California
+3330861
+F 3 78 3.10
+PHIL
+18264 Lucky, Lucy L
+Grandville, Michigan
+7745424
+F 5 66 2.29
+HIST
+24237 Euler, Lennie L
+Three_Rivers, Michigan
+6290017
+M 1 15 3.83
+MATH
+17424 Nakamura, Toky O
+Chicago, Illinois
+4249665
+F 1 12 1.95
+SOCI
