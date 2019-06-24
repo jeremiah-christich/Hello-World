@@ -1,0 +1,15 @@
+	 Flight 			    Destination 			     Time
+American Airlines AA123  	   St.Louis to Dallas-Fort Worth 		    9:17 PM
+
+Priority     Last Name/First Name 	 Frequent Flier Miles 	 Frequent Flier Years 	Arrival Number 
+   93		Nguyen, Baclan			93000			3			 3
+   90		Trapp, Amanda			89000			3			 2
+   74		Rexroad, Warren			72000			7			 5
+   61		Gonzales, Jorge			65000			2			 6
+   57		Devaux, Bryan			53000			5			 1
+   56		Lightfoot, Dave			63000			3			10
+   37		Chu, Steve			42000			4			 9
+   30		Hung, Paula			34000			3			 7
+   24		Brown, Joanne			33000			2			11
+   19		Mason, Lou			21000			6			 8
+   14		Gilley, Sarah			17000			1			 4
